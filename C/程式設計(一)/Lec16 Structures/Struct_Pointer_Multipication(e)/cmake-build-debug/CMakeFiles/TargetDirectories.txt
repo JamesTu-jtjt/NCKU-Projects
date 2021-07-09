@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/Struct_Pointer_Multipication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/CLionProjects/Struct_Pointer_Multipication/cmake-build-debug/CMakeFiles/Struct_Pointer_Multipication.dir
+C:/Users/user/CLionProjects/Struct_Pointer_Multipication/cmake-build-debug/CMakeFiles/edit_cache.dir

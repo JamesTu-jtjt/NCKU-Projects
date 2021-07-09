@@ -1,0 +1,283 @@
+<AddDataPage>:
+    name: "add_data"
+    email: email
+    full_name: full_name
+    school: school
+    department: department
+    skills: skills
+    habits: habits
+
+    FloatLayout:
+        cols:1
+
+        FloatLayout:
+            size: root.width, root.height/2
+
+            Label:
+                text: "Please fill in Data"
+                size_hint: 0.8, 0.1
+                pos_hint: {"x":0.1, "top":1}
+                font_size: (root.width**2 + root.height**2) / 14**4
+
+            Label:
+                size_hint: 0.5,0.1
+                pos_hint: {"x":0, "top":0.9}
+                text: "Email: "
+                font_size: (root.width**2 + root.height**2) / 14**4
+
+            TextInput:
+                pos_hint: {"x":0.5, "top":0.9}
+                size_hint: 0.4, 0.1
+                id: email
+                multiline: False
+                font_size: (root.width**2 + root.height**2) / 14**4
+
+            Label:
+                size_hint: 0.5,0.1
+                pos_hint: {"x":0, "top":0.9-0.11}
+                text: "Name: "
+                font_size: (root.width**2 + root.height**2) / 14**4
+
+            TextInput:
+                pos_hint: {"x":0.5, "top":0.9-0.11}
+                size_hint: 0.4, 0.1
+                id: full_name
+                multiline: False
+                font_size: (root.width**2 + root.height**2) / 14**4
+
+            Label:
+                size_hint: 0.5,0.1
+                pos_hint: {"x":0, "top":0.9-0.11*2}
+                text: "School: "
+                font_size: (root.width**2 + root.height**2) / 14**4
+
+            TextInput:
+                pos_hint: {"x":0.5, "top":0.9-0.11*2}
+                size_hint: 0.4, 0.1
+                id: school
+                multiline: False
+                font_size: (root.width**2 + root.height**2) / 14**4
+
+            Label:
+                size_hint: 0.5,0.1
+                pos_hint: {"x":0, "top":0.9-0.11*3}
+                text: "Department: "
+                font_size: (root.width**2 + root.height**2) / 14**4
+
+            TextInput:
+                pos_hint: {"x":0.5, "top":0.9-0.11*3}
+                size_hint: 0.4, 0.1
+                id: department
+                multiline: False
+                font_size: (root.width**2 + root.height**2) / 14**4
+
+            Label:
+                size_hint: 0.5,0.1
+                pos_hint: {"x":0, "top":0.9-0.11*4}
+                text: "Skills (Separate with /): "
+                font_size: (root.width**2 + root.height**2) / 14**4
+
+            TextInput:
+                pos_hint: {"x":0.5, "top":0.9-0.11*4}
+                size_hint: 0.4, 0.1
+                id: skills
+                multiline: False
+                font_size: (root.width**2 + root.height**2) / 14**4
+
+            Label:
+                size_hint: 0.5,0.1
+                pos_hint: {"x":0, "top":0.9-0.11*5}
+                text: "Habits (Separate with /): "
+                font_size: (root.width**2 + root.height**2) / 14**4
+
+            TextInput:
+                pos_hint: {"x":0.5, "top":0.9-0.11*5}
+                size_hint: 0.4, 0.1
+                id: habits
+                multiline: False
+                font_size: (root.width**2 + root.height**2) / 14**4
+
+        Button:
+            pos_hint:{"x":0.2,"y":0.05}
+            size_hint: 0.6, 0.15
+            text: "Submit"
+            font_size: (root.width**2 + root.height**2) / 14**4
+            on_release:
+                root.manager.transition.direction = "left"
+                root.submit()
+        
+        Button:
+            pos_hint:{"x":0.9,"y":0.9}
+            size_hint: 0.08, 0.04
+            font_size: (root.width**2 + root.height**2) / 17**4
+            text: "Return"
+            on_release:
+                app.root.current = "search"
+                root.manager.transition.direction = "left"
+
+
+<SearchPage>:
+    name: "search"
+    sk: sk
+
+    FloatLayout:
+
+        Label:
+            text:"Skill: "
+            font_size: (root.width**2 + root.height**2) / 13**4
+            pos_hint: {"x":0.1, "top":0.7}
+            size_hint: 0.35, 0.15
+
+        TextInput:
+            id: sk
+            font_size: (root.width**2 + root.height**2) / 13**4
+            multiline: False
+            pos_hint: {"x": 0.45 , "top":0.7}
+            size_hint: 0.4, 0.15
+
+        Button:
+            pos_hint:{"x":0.2,"y":0.3}
+            size_hint: 0.5, 0.15
+            font_size: (root.width**2 + root.height**2) / 13**4
+            text: "Search"
+            on_release:
+                root.manager.transition.direction = "up"
+                root.search_btn()
+
+        Button:
+            pos_hint:{"x":0.6,"y":0.05}
+            size_hint: 0.3, 0.1
+            font_size: (root.width**2 + root.height**2) / 15**4
+            text: "Add Profile"
+            on_release:
+                root.manager.transition.direction = "right"
+                root.create_btn()
+        
+        Button:
+            pos_hint:{"x":0.9,"y":0.9}
+            size_hint: 0.08, 0.04
+            font_size: (root.width**2 + root.height**2) / 17**4
+            text: "Close"
+            on_release:
+                root.close_btn()
+
+<ContactPage>:
+    name: "contacts"
+    email: email
+    results: results
+    
+    FloatLayout:
+        
+        Label:
+            id: results
+            pos_hint:{"x": 0.2, "top":0.9}
+            halign: 'center'
+            size_hint: 0.6, 0.2
+            font_size: (root.width**2 + root.height**2) / 16**4
+            
+        Button:
+            pos_hint:{"x":0.85,"y":0.6}
+            size_hint: 0.15, 0.08
+            font_size: (root.width**2 + root.height**2) / 15**4
+            text: "Return"
+            on_release:
+                app.root.current = "search"
+                root.manager.transition.direction = "down"
+
+        Label:
+            text:"Email: "
+            font_size: (root.width**2 + root.height**2) / 13**4
+            pos_hint: {"x":0.1, "top":0.4}
+            size_hint: 0.35, 0.15
+
+        TextInput:
+            id: email
+            font_size: (root.width**2 + root.height**2) / 13**4
+            multiline: False
+            pos_hint: {"x": 0.45 , "top":0.4}
+            size_hint: 0.4, 0.15
+        
+        Label:
+            pos_hint:{"x":0.3,"y":0.5}
+            size_hint: 0.3, 0.1
+            font_size: (root.width**2 + root.height**2) / 14**4
+            text: "Enter email to view profile"
+                
+        Button:
+            pos_hint:{"x":0.2,"y":0.05}
+            size_hint: 0.5, 0.15
+            font_size: (root.width**2 + root.height**2) / 13**4
+            text: "Check Profile"
+            on_release:
+                root.manager.transition.direction = "up"
+                root.search_btn()
+        
+
+<HomePage>:
+    n: n
+    sd: sd
+    sk: sk
+    ha: ha
+    e: e
+    t: t
+
+    FloatLayout:
+        Button:
+            pos_hint:{"x":0.01, "top": 1}
+            size_hint:0.12,0.1
+            text: "Notifications"
+            on_release:
+                root.notifications()
+
+        Label:
+            id: n
+            pos_hint:{"x": 0.1, "top":0.9}
+            size_hint:0.8, 0.2
+            text: "Name: "
+
+        Label:
+            id: sd
+            pos_hint:{"x": 0.1, "top":0.8}
+            size_hint:0.8, 0.2
+            text: "From: "
+
+        Label:
+            id: sk
+            pos_hint:{"x": 0.1, "top":0.7}
+            size_hint:0.8, 0.2
+            text: "Skills: "
+
+        Label:
+            id: ha
+            pos_hint:{"x": 0.1, "top":0.6}
+            size_hint:0.8, 0.2
+            text: "Habits: "
+
+        Label:
+            id: e
+            pos_hint:{"x": 0.1, "top":0.5}
+            size_hint:0.8, 0.2
+            text: "Email: "
+
+        Label:
+            id: t
+            pos_hint:{"x": 0.1, "top":0.4}
+            size_hint:0.8, 0.2
+            text: "Data added or modified at: "
+
+        Button:
+            pos_hint:{"x":0.6, "y": 0.1}
+            size_hint:0.2,0.1
+            text: "Return"
+            on_release:
+                app.root.current = "contacts"
+                root.manager.transition.direction = "down"
+        
+        Button:
+            pos_hint:{"x":0.9,"y":0.9}
+            size_hint: 0.08, 0.04
+            font_size: (root.width**2 + root.height**2) / 17**4
+            text: "Exit"
+            on_release:
+                app.root.current = "search"
+                root.manager.transition.direction = "down"

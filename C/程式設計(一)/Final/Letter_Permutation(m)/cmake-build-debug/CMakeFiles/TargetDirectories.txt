@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/Final/Letter_Permutation(m)/cmake-build-debug/CMakeFiles/Letter_Permutation_m_.dir
+C:/Users/user/CLionProjects/Final/Letter_Permutation(m)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/Final/Letter_Permutation(m)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/King_of_Fighters/cmake-build-debug/CMakeFiles/King_of_Fighters.dir
+C:/Users/user/CLionProjects/King_of_Fighters/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/King_of_Fighters/cmake-build-debug/CMakeFiles/rebuild_cache.dir

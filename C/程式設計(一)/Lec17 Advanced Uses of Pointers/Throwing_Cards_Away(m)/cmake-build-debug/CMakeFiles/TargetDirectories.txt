@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/Lec17 Advanced Uses of Pointers/Throwing_Cards_Away(m)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/Lec17 Advanced Uses of Pointers/Throwing_Cards_Away(m)/cmake-build-debug/CMakeFiles/Throwing_Cards_Away.dir
+C:/Users/user/CLionProjects/Lec17 Advanced Uses of Pointers/Throwing_Cards_Away(m)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

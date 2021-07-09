@@ -1,0 +1,14 @@
+Email;Name;School;Department;Skills;Habits;Date
+j@gmail.com;james;ncku;stat;a/b/c;x/y/z;2021-06-12
+a@gmail.com;alice;nthu;econ;a/d/f;f/g;2021-06-12
+bsadf@gmail.com;alice;nthu;econ;a/d/f;f/g;2021-06-12
+xzcc@gmail.com;alice;nthu;econ;a/d/f;f/g;2021-06-12
+zxcvq@gmail.com;alice;nthu;econ;a/d/f;f/g;2021-06-12
+zxcvzxw@gmail.com;alice;nthu;econ;a/d/f;f/g;2021-06-12
+zxcve@gmail.com;alice;nthu;econ;a/d/f;f/g;2021-06-12
+r@gmail.com;alice;nthu;econ;a/d/f;f/g;2021-06-12
+t@gmail.com;alice;nthu;econ;a/d/f;f/g;2021-06-12
+wewfwsdfsdfy@gmail.com;alice;nthu;econ;a/d/f;f/g;2021-06-12
+asdfasfdu@gmail.com;alice;nthu;econ;a/d/f;f/g;2021-06-12
+asdkjfhaowiuhfa@gmail.com;alice;nthu;econ;a/d/f;f/g;2021-06-12
+james@gmail.com;James Tu;NCKU;Stat;Programming;exercise;2021-06-12

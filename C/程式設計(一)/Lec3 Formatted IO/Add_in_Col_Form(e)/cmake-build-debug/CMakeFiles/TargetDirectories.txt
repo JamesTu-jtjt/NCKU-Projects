@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/Add_in_Col_Form/cmake-build-debug/CMakeFiles/Add_in_Col_Form.dir
+C:/Users/user/CLionProjects/Add_in_Col_Form/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/Add_in_Col_Form/cmake-build-debug/CMakeFiles/rebuild_cache.dir

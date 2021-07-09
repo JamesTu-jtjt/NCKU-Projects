@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/Bus_Stop(With_Padding)/cmake-build-debug/CMakeFiles/Bus_Stop_With_Padding_.dir
+C:/Users/user/CLionProjects/Bus_Stop(With_Padding)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/Bus_Stop(With_Padding)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

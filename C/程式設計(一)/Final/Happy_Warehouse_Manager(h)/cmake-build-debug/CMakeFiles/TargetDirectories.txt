@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/Final/Happy_Warehouse_Manager(h)/cmake-build-debug/CMakeFiles/Happy_Warehouse_Manager_h_.dir
+C:/Users/user/CLionProjects/Final/Happy_Warehouse_Manager(h)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/Final/Happy_Warehouse_Manager(h)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

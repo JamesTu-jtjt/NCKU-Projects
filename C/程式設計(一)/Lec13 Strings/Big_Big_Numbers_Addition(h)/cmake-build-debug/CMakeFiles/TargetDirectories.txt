@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/Lec13 Strings/Big_Big_Numbers_Addition(h)/cmake-build-debug/CMakeFiles/Big_Big_Numbers_Addition.dir
+C:/Users/user/CLionProjects/Lec13 Strings/Big_Big_Numbers_Addition(h)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/Lec13 Strings/Big_Big_Numbers_Addition(h)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

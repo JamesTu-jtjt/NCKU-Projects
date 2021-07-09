@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/Lec16 Structures/Judgelight_Sorting_Struct(m)/cmake-build-debug/CMakeFiles/Judgelight_Sorting_Struct.dir
+C:/Users/user/CLionProjects/Lec16 Structures/Judgelight_Sorting_Struct(m)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/Lec16 Structures/Judgelight_Sorting_Struct(m)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

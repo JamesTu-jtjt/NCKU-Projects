@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/Beaufort_Scale/cmake-build-debug/CMakeFiles/Beaufort_Scale.dir
+C:/Users/user/CLionProjects/Beaufort_Scale/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/Beaufort_Scale/cmake-build-debug/CMakeFiles/rebuild_cache.dir
