@@ -1,0 +1,10 @@
+D:\視窗程式設計\C# Files\HW4-2 Meme Generator\HW4-2 Meme Generator\bin\Debug\HW4-2 Meme Generator.exe.config
+D:\視窗程式設計\C# Files\HW4-2 Meme Generator\HW4-2 Meme Generator\bin\Debug\HW4-2 Meme Generator.exe
+D:\視窗程式設計\C# Files\HW4-2 Meme Generator\HW4-2 Meme Generator\bin\Debug\HW4-2 Meme Generator.pdb
+D:\視窗程式設計\C# Files\HW4-2 Meme Generator\HW4-2 Meme Generator\obj\Debug\HW4-2 Meme Generator.csprojAssemblyReference.cache
+D:\視窗程式設計\C# Files\HW4-2 Meme Generator\HW4-2 Meme Generator\obj\Debug\HW4_2_Meme_Generator.Form1.resources
+D:\視窗程式設計\C# Files\HW4-2 Meme Generator\HW4-2 Meme Generator\obj\Debug\HW4_2_Meme_Generator.Properties.Resources.resources
+D:\視窗程式設計\C# Files\HW4-2 Meme Generator\HW4-2 Meme Generator\obj\Debug\HW4-2 Meme Generator.csproj.GenerateResource.cache
+D:\視窗程式設計\C# Files\HW4-2 Meme Generator\HW4-2 Meme Generator\obj\Debug\HW4-2 Meme Generator.csproj.CoreCompileInputs.cache
+D:\視窗程式設計\C# Files\HW4-2 Meme Generator\HW4-2 Meme Generator\obj\Debug\HW4-2 Meme Generator.exe
+D:\視窗程式設計\C# Files\HW4-2 Meme Generator\HW4-2 Meme Generator\obj\Debug\HW4-2 Meme Generator.pdb
