@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\HW2-2 Maze\HW2-2 Maze\bin\Debug\HW2-2 Maze.exe.config
+C:\Users\user\source\repos\HW2-2 Maze\HW2-2 Maze\bin\Debug\HW2-2 Maze.exe
+C:\Users\user\source\repos\HW2-2 Maze\HW2-2 Maze\bin\Debug\HW2-2 Maze.pdb
+C:\Users\user\source\repos\HW2-2 Maze\HW2-2 Maze\obj\Debug\HW2-2 Maze.csprojAssemblyReference.cache
+C:\Users\user\source\repos\HW2-2 Maze\HW2-2 Maze\obj\Debug\HW2-2 Maze.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HW2-2 Maze\HW2-2 Maze\obj\Debug\HW2-2 Maze.exe
+C:\Users\user\source\repos\HW2-2 Maze\HW2-2 Maze\obj\Debug\HW2-2 Maze.pdb
+D:\視窗程式設計\C# Files\HW2-2 Maze\HW2-2 Maze\bin\Debug\HW2-2 Maze.exe.config
+D:\視窗程式設計\C# Files\HW2-2 Maze\HW2-2 Maze\bin\Debug\HW2-2 Maze.exe
+D:\視窗程式設計\C# Files\HW2-2 Maze\HW2-2 Maze\bin\Debug\HW2-2 Maze.pdb
+D:\視窗程式設計\C# Files\HW2-2 Maze\HW2-2 Maze\obj\Debug\HW2-2 Maze.csprojAssemblyReference.cache
+D:\視窗程式設計\C# Files\HW2-2 Maze\HW2-2 Maze\obj\Debug\HW2-2 Maze.csproj.CoreCompileInputs.cache
+D:\視窗程式設計\C# Files\HW2-2 Maze\HW2-2 Maze\obj\Debug\HW2-2 Maze.exe
+D:\視窗程式設計\C# Files\HW2-2 Maze\HW2-2 Maze\obj\Debug\HW2-2 Maze.pdb
