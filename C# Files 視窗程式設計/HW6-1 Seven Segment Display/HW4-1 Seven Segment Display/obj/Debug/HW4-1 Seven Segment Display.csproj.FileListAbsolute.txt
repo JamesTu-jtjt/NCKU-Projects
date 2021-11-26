@@ -1,0 +1,10 @@
+D:\視窗程式設計\C# Files\HW4-1 Seven Segment Display\HW4-1 Seven Segment Display\bin\Debug\HW4-1 Seven Segment Display.exe.config
+D:\視窗程式設計\C# Files\HW4-1 Seven Segment Display\HW4-1 Seven Segment Display\bin\Debug\HW4-1 Seven Segment Display.exe
+D:\視窗程式設計\C# Files\HW4-1 Seven Segment Display\HW4-1 Seven Segment Display\bin\Debug\HW4-1 Seven Segment Display.pdb
+D:\視窗程式設計\C# Files\HW4-1 Seven Segment Display\HW4-1 Seven Segment Display\obj\Debug\HW4-1 Seven Segment Display.csprojAssemblyReference.cache
+D:\視窗程式設計\C# Files\HW4-1 Seven Segment Display\HW4-1 Seven Segment Display\obj\Debug\HW4_1_Seven_Segment_Display.Form1.resources
+D:\視窗程式設計\C# Files\HW4-1 Seven Segment Display\HW4-1 Seven Segment Display\obj\Debug\HW4_1_Seven_Segment_Display.Properties.Resources.resources
+D:\視窗程式設計\C# Files\HW4-1 Seven Segment Display\HW4-1 Seven Segment Display\obj\Debug\HW4-1 Seven Segment Display.csproj.GenerateResource.cache
+D:\視窗程式設計\C# Files\HW4-1 Seven Segment Display\HW4-1 Seven Segment Display\obj\Debug\HW4-1 Seven Segment Display.csproj.CoreCompileInputs.cache
+D:\視窗程式設計\C# Files\HW4-1 Seven Segment Display\HW4-1 Seven Segment Display\obj\Debug\HW4-1 Seven Segment Display.exe
+D:\視窗程式設計\C# Files\HW4-1 Seven Segment Display\HW4-1 Seven Segment Display\obj\Debug\HW4-1 Seven Segment Display.pdb
