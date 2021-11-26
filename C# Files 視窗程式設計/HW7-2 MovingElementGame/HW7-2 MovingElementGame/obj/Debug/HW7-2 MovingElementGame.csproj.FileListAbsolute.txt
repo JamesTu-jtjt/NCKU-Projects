@@ -1,0 +1,10 @@
+D:\視窗程式設計\C# Files\HW7-2 MovingElementGame\HW7-2 MovingElementGame\obj\Debug\HW7-2 MovingElementGame.csprojAssemblyReference.cache
+D:\視窗程式設計\C# Files\HW7-2 MovingElementGame\HW7-2 MovingElementGame\obj\Debug\HW7_2_MovingElementGame.Form1.resources
+D:\視窗程式設計\C# Files\HW7-2 MovingElementGame\HW7-2 MovingElementGame\obj\Debug\HW7_2_MovingElementGame.Properties.Resources.resources
+D:\視窗程式設計\C# Files\HW7-2 MovingElementGame\HW7-2 MovingElementGame\obj\Debug\HW7-2 MovingElementGame.csproj.GenerateResource.cache
+D:\視窗程式設計\C# Files\HW7-2 MovingElementGame\HW7-2 MovingElementGame\obj\Debug\HW7-2 MovingElementGame.csproj.CoreCompileInputs.cache
+D:\視窗程式設計\C# Files\HW7-2 MovingElementGame\HW7-2 MovingElementGame\bin\Debug\HW7-2 MovingElementGame.exe.config
+D:\視窗程式設計\C# Files\HW7-2 MovingElementGame\HW7-2 MovingElementGame\bin\Debug\HW7-2 MovingElementGame.exe
+D:\視窗程式設計\C# Files\HW7-2 MovingElementGame\HW7-2 MovingElementGame\bin\Debug\HW7-2 MovingElementGame.pdb
+D:\視窗程式設計\C# Files\HW7-2 MovingElementGame\HW7-2 MovingElementGame\obj\Debug\HW7-2 MovingElementGame.exe
+D:\視窗程式設計\C# Files\HW7-2 MovingElementGame\HW7-2 MovingElementGame\obj\Debug\HW7-2 MovingElementGame.pdb
