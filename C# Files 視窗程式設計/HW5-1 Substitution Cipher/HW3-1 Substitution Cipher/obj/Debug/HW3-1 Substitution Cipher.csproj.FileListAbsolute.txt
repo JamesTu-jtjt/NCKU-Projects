@@ -1,0 +1,10 @@
+D:\視窗程式設計\C# Files\HW3-1 Substitution Cipher\HW3-1 Substitution Cipher\bin\Debug\HW3-1 Substitution Cipher.exe.config
+D:\視窗程式設計\C# Files\HW3-1 Substitution Cipher\HW3-1 Substitution Cipher\bin\Debug\HW3-1 Substitution Cipher.exe
+D:\視窗程式設計\C# Files\HW3-1 Substitution Cipher\HW3-1 Substitution Cipher\bin\Debug\HW3-1 Substitution Cipher.pdb
+D:\視窗程式設計\C# Files\HW3-1 Substitution Cipher\HW3-1 Substitution Cipher\obj\Debug\HW3-1 Substitution Cipher.csprojAssemblyReference.cache
+D:\視窗程式設計\C# Files\HW3-1 Substitution Cipher\HW3-1 Substitution Cipher\obj\Debug\HW3_1_Substitution_Cipher.Form1.resources
+D:\視窗程式設計\C# Files\HW3-1 Substitution Cipher\HW3-1 Substitution Cipher\obj\Debug\HW3_1_Substitution_Cipher.Properties.Resources.resources
+D:\視窗程式設計\C# Files\HW3-1 Substitution Cipher\HW3-1 Substitution Cipher\obj\Debug\HW3-1 Substitution Cipher.csproj.GenerateResource.cache
+D:\視窗程式設計\C# Files\HW3-1 Substitution Cipher\HW3-1 Substitution Cipher\obj\Debug\HW3-1 Substitution Cipher.csproj.CoreCompileInputs.cache
+D:\視窗程式設計\C# Files\HW3-1 Substitution Cipher\HW3-1 Substitution Cipher\obj\Debug\HW3-1 Substitution Cipher.exe
+D:\視窗程式設計\C# Files\HW3-1 Substitution Cipher\HW3-1 Substitution Cipher\obj\Debug\HW3-1 Substitution Cipher.pdb
