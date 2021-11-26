@@ -1,0 +1,10 @@
+D:\視窗程式設計\C# Files\HW3-2 Electronic Chicken\HW3-2 Electronic Chicken\obj\Debug\HW3-2 Electronic Chicken.csprojAssemblyReference.cache
+D:\視窗程式設計\C# Files\HW3-2 Electronic Chicken\HW3-2 Electronic Chicken\obj\Debug\HW3_2_Electronic_Chicken.Form1.resources
+D:\視窗程式設計\C# Files\HW3-2 Electronic Chicken\HW3-2 Electronic Chicken\obj\Debug\HW3_2_Electronic_Chicken.Properties.Resources.resources
+D:\視窗程式設計\C# Files\HW3-2 Electronic Chicken\HW3-2 Electronic Chicken\obj\Debug\HW3-2 Electronic Chicken.csproj.GenerateResource.cache
+D:\視窗程式設計\C# Files\HW3-2 Electronic Chicken\HW3-2 Electronic Chicken\obj\Debug\HW3-2 Electronic Chicken.csproj.CoreCompileInputs.cache
+D:\視窗程式設計\C# Files\HW3-2 Electronic Chicken\HW3-2 Electronic Chicken\bin\Debug\HW3-2 Electronic Chicken.exe.config
+D:\視窗程式設計\C# Files\HW3-2 Electronic Chicken\HW3-2 Electronic Chicken\bin\Debug\HW3-2 Electronic Chicken.exe
+D:\視窗程式設計\C# Files\HW3-2 Electronic Chicken\HW3-2 Electronic Chicken\bin\Debug\HW3-2 Electronic Chicken.pdb
+D:\視窗程式設計\C# Files\HW3-2 Electronic Chicken\HW3-2 Electronic Chicken\obj\Debug\HW3-2 Electronic Chicken.exe
+D:\視窗程式設計\C# Files\HW3-2 Electronic Chicken\HW3-2 Electronic Chicken\obj\Debug\HW3-2 Electronic Chicken.pdb
