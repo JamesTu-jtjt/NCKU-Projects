@@ -1,0 +1,10 @@
+D:\視窗程式設計\C# Files\HW8-2 5inaRow\HW8-2 5inaRow\bin\Debug\HW8-2 5inaRow.exe.config
+D:\視窗程式設計\C# Files\HW8-2 5inaRow\HW8-2 5inaRow\bin\Debug\HW8-2 5inaRow.exe
+D:\視窗程式設計\C# Files\HW8-2 5inaRow\HW8-2 5inaRow\bin\Debug\HW8-2 5inaRow.pdb
+D:\視窗程式設計\C# Files\HW8-2 5inaRow\HW8-2 5inaRow\obj\Debug\HW8-2 5inaRow.csprojAssemblyReference.cache
+D:\視窗程式設計\C# Files\HW8-2 5inaRow\HW8-2 5inaRow\obj\Debug\HW8_2_5inaRow.Form1.resources
+D:\視窗程式設計\C# Files\HW8-2 5inaRow\HW8-2 5inaRow\obj\Debug\HW8_2_5inaRow.Properties.Resources.resources
+D:\視窗程式設計\C# Files\HW8-2 5inaRow\HW8-2 5inaRow\obj\Debug\HW8-2 5inaRow.csproj.GenerateResource.cache
+D:\視窗程式設計\C# Files\HW8-2 5inaRow\HW8-2 5inaRow\obj\Debug\HW8-2 5inaRow.csproj.CoreCompileInputs.cache
+D:\視窗程式設計\C# Files\HW8-2 5inaRow\HW8-2 5inaRow\obj\Debug\HW8-2 5inaRow.exe
+D:\視窗程式設計\C# Files\HW8-2 5inaRow\HW8-2 5inaRow\obj\Debug\HW8-2 5inaRow.pdb
