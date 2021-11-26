@@ -1,0 +1,10 @@
+D:\視窗程式設計\C# Files\HW7-1 2048\HW7-1 2048\bin\Debug\HW7-1 2048.exe.config
+D:\視窗程式設計\C# Files\HW7-1 2048\HW7-1 2048\bin\Debug\HW7-1 2048.exe
+D:\視窗程式設計\C# Files\HW7-1 2048\HW7-1 2048\bin\Debug\HW7-1 2048.pdb
+D:\視窗程式設計\C# Files\HW7-1 2048\HW7-1 2048\obj\Debug\HW7-1 2048.csprojAssemblyReference.cache
+D:\視窗程式設計\C# Files\HW7-1 2048\HW7-1 2048\obj\Debug\HW7_1_2048.Form1.resources
+D:\視窗程式設計\C# Files\HW7-1 2048\HW7-1 2048\obj\Debug\HW7_1_2048.Properties.Resources.resources
+D:\視窗程式設計\C# Files\HW7-1 2048\HW7-1 2048\obj\Debug\HW7-1 2048.csproj.GenerateResource.cache
+D:\視窗程式設計\C# Files\HW7-1 2048\HW7-1 2048\obj\Debug\HW7-1 2048.csproj.CoreCompileInputs.cache
+D:\視窗程式設計\C# Files\HW7-1 2048\HW7-1 2048\obj\Debug\HW7-1 2048.exe
+D:\視窗程式設計\C# Files\HW7-1 2048\HW7-1 2048\obj\Debug\HW7-1 2048.pdb
