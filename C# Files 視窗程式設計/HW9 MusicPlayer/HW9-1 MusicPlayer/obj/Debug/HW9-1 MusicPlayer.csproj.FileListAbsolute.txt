@@ -1,0 +1,21 @@
+D:\視窗程式設計\C# Files\HW9-1 MusicPlayer\HW9-1 MusicPlayer\bin\Debug\HW9-1 MusicPlayer.exe.config
+D:\視窗程式設計\C# Files\HW9-1 MusicPlayer\HW9-1 MusicPlayer\bin\Debug\HW9-1 MusicPlayer.exe
+D:\視窗程式設計\C# Files\HW9-1 MusicPlayer\HW9-1 MusicPlayer\bin\Debug\HW9-1 MusicPlayer.pdb
+D:\視窗程式設計\C# Files\HW9-1 MusicPlayer\HW9-1 MusicPlayer\obj\Debug\HW9-1 MusicPlayer.csprojAssemblyReference.cache
+D:\視窗程式設計\C# Files\HW9-1 MusicPlayer\HW9-1 MusicPlayer\obj\Debug\HW9_1_MusicPlayer.Form1.resources
+D:\視窗程式設計\C# Files\HW9-1 MusicPlayer\HW9-1 MusicPlayer\obj\Debug\HW9_1_MusicPlayer.Properties.Resources.resources
+D:\視窗程式設計\C# Files\HW9-1 MusicPlayer\HW9-1 MusicPlayer\obj\Debug\HW9-1 MusicPlayer.csproj.GenerateResource.cache
+D:\視窗程式設計\C# Files\HW9-1 MusicPlayer\HW9-1 MusicPlayer\obj\Debug\HW9-1 MusicPlayer.csproj.CoreCompileInputs.cache
+D:\視窗程式設計\C# Files\HW9-1 MusicPlayer\HW9-1 MusicPlayer\obj\Debug\HW9-1 MusicPlayer.exe
+D:\視窗程式設計\C# Files\HW9-1 MusicPlayer\HW9-1 MusicPlayer\obj\Debug\HW9-1 MusicPlayer.pdb
+D:\視窗程式設計\C# Files\HW9 MusicPlayer\HW9-1 MusicPlayer\bin\Debug\HW9-1 MusicPlayer.exe.config
+D:\視窗程式設計\C# Files\HW9 MusicPlayer\HW9-1 MusicPlayer\bin\Debug\HW9-1 MusicPlayer.exe
+D:\視窗程式設計\C# Files\HW9 MusicPlayer\HW9-1 MusicPlayer\bin\Debug\HW9-1 MusicPlayer.pdb
+D:\視窗程式設計\C# Files\HW9 MusicPlayer\HW9-1 MusicPlayer\obj\Debug\HW9-1 MusicPlayer.csprojAssemblyReference.cache
+D:\視窗程式設計\C# Files\HW9 MusicPlayer\HW9-1 MusicPlayer\obj\Debug\HW9_1_MusicPlayer.Form1.resources
+D:\視窗程式設計\C# Files\HW9 MusicPlayer\HW9-1 MusicPlayer\obj\Debug\HW9_1_MusicPlayer.Properties.Resources.resources
+D:\視窗程式設計\C# Files\HW9 MusicPlayer\HW9-1 MusicPlayer\obj\Debug\HW9-1 MusicPlayer.csproj.GenerateResource.cache
+D:\視窗程式設計\C# Files\HW9 MusicPlayer\HW9-1 MusicPlayer\obj\Debug\HW9-1 MusicPlayer.csproj.CoreCompileInputs.cache
+D:\視窗程式設計\C# Files\HW9 MusicPlayer\HW9-1 MusicPlayer\obj\Debug\HW9-1 MusicPlayer.exe
+D:\視窗程式設計\C# Files\HW9 MusicPlayer\HW9-1 MusicPlayer\obj\Debug\HW9-1 MusicPlayer.pdb
+D:\視窗程式設計\C# Files\HW9 MusicPlayer\HW9-1 MusicPlayer\obj\Debug\HW9_1_MusicPlayer.Form2.resources
