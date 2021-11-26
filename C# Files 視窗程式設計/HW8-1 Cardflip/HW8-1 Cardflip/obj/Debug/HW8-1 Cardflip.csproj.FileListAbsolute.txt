@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\HW8-1 Cardflip\HW8-1 Cardflip\bin\Debug\HW8-1 Cardflip.exe.config
+C:\Users\user\source\repos\HW8-1 Cardflip\HW8-1 Cardflip\bin\Debug\HW8-1 Cardflip.exe
+C:\Users\user\source\repos\HW8-1 Cardflip\HW8-1 Cardflip\bin\Debug\HW8-1 Cardflip.pdb
+C:\Users\user\source\repos\HW8-1 Cardflip\HW8-1 Cardflip\obj\Debug\HW8-1 Cardflip.csprojAssemblyReference.cache
+C:\Users\user\source\repos\HW8-1 Cardflip\HW8-1 Cardflip\obj\Debug\HW8_1_Cardflip.Form1.resources
+C:\Users\user\source\repos\HW8-1 Cardflip\HW8-1 Cardflip\obj\Debug\HW8_1_Cardflip.Properties.Resources.resources
+C:\Users\user\source\repos\HW8-1 Cardflip\HW8-1 Cardflip\obj\Debug\HW8-1 Cardflip.csproj.GenerateResource.cache
+C:\Users\user\source\repos\HW8-1 Cardflip\HW8-1 Cardflip\obj\Debug\HW8-1 Cardflip.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HW8-1 Cardflip\HW8-1 Cardflip\obj\Debug\HW8-1 Cardflip.exe
+C:\Users\user\source\repos\HW8-1 Cardflip\HW8-1 Cardflip\obj\Debug\HW8-1 Cardflip.pdb
+D:\視窗程式設計\C# Files\HW8-1 Cardflip\HW8-1 Cardflip\bin\Debug\HW8-1 Cardflip.exe.config
+D:\視窗程式設計\C# Files\HW8-1 Cardflip\HW8-1 Cardflip\bin\Debug\HW8-1 Cardflip.exe
+D:\視窗程式設計\C# Files\HW8-1 Cardflip\HW8-1 Cardflip\bin\Debug\HW8-1 Cardflip.pdb
+D:\視窗程式設計\C# Files\HW8-1 Cardflip\HW8-1 Cardflip\obj\Debug\HW8-1 Cardflip.csprojAssemblyReference.cache
+D:\視窗程式設計\C# Files\HW8-1 Cardflip\HW8-1 Cardflip\obj\Debug\HW8_1_Cardflip.Form1.resources
+D:\視窗程式設計\C# Files\HW8-1 Cardflip\HW8-1 Cardflip\obj\Debug\HW8_1_Cardflip.Properties.Resources.resources
+D:\視窗程式設計\C# Files\HW8-1 Cardflip\HW8-1 Cardflip\obj\Debug\HW8-1 Cardflip.csproj.GenerateResource.cache
+D:\視窗程式設計\C# Files\HW8-1 Cardflip\HW8-1 Cardflip\obj\Debug\HW8-1 Cardflip.csproj.CoreCompileInputs.cache
+D:\視窗程式設計\C# Files\HW8-1 Cardflip\HW8-1 Cardflip\obj\Debug\HW8-1 Cardflip.exe
+D:\視窗程式設計\C# Files\HW8-1 Cardflip\HW8-1 Cardflip\obj\Debug\HW8-1 Cardflip.pdb
